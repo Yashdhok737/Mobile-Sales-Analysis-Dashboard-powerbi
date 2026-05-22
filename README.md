@@ -6,6 +6,9 @@ This project presents a Mobile Sales Analysis Dashboard created using Power BI t
 
 The dashboard provides interactive visual insights that help businesses track sales growth, identify top-performing mobile brands/models, and understand customer preferences.
 
+<img width="1314" height="737" alt="mobile Sales Dashboard" src="https://github.com/user-attachments/assets/72727c64-6773-4e56-b35a-ac12b1863730" />
+
+
 ### 🎯 Objectives
 - Analyze overall mobile sales performance.
 - Track monthly sales and quantity trends.
@@ -94,8 +97,12 @@ The dashboard includes:
 
 This Power BI dashboard helps businesses make data-driven decisions by providing meaningful insights into mobile sales trends, customer preferences, and overall business performance. It enables efficient monitoring of KPIs and improves strategic planning.
 
-### 👤 Author
+### 👤 Author & Contact
 
 #### Yash Dhok
 
-Power BI | SQL | Excel Enthusiast
+Email : dhokyash4@gmail.com
+
+### 🔗 If you like this project
+
+Give it a ⭐ on GitHub and share your feedback!
